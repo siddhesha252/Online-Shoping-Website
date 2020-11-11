@@ -1,2 +1,2 @@
-# Online-Shoping-Website
+DBMS project - Online-Shoping-Website
  Ecomerce Website using php and MySQL
